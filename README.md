@@ -1,13 +1,13 @@
 # Sam's AOC 2022
 Trying a different language every single day! Doing in tandem with [@seanaye](https://github.com/seanaye).
 
-Day 1: Python
+Day 1: Python ✅
 
 Day 2: Rust
 
-Day 3:
+Day 3: C++
 
-Day 4:
+Day 4: grain-lang
 
 Day 5:
 
